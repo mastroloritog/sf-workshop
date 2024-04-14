@@ -1,4 +1,4 @@
-"# sf-workshop"
+"# sf-workshop"\n
 Gioco: mappa del tesoro
 Scopo: ogni utente si connette al server e può scavare (/dig) in una cella della mappa specificando le coordinate x e y
 Regole: se l'utente scava in una cella ma non trova il tesoro riceverà una risposta dal server di quanto dista il tesoro più vicino
